@@ -19,7 +19,6 @@ We firmly believe #RACASNIPBOT is a great app , you can detect locked tokens , c
 And #RACASNIPBOT PREMIUM will definitely have a superior buying feature! Faster and features potential tokenization and management.
 #RACASNIPBOT #ETH #RACA #MOON #UTILITY
 
-Use /help to show list command available.
 Use /snipe to go to the sniperbot main panel.
 
 Telegram : https://t.me/racasniperbot
